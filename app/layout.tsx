@@ -10,7 +10,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-    title: "Ecommerce Website",
+    title: "Rajeev Fabrics",
     description: "Premium tailored clothing for the modern individual",
     generator: "v0.dev",
 };

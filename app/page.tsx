@@ -102,7 +102,7 @@ export default function Home() {
 
                     <Link href="/" className="flex items-center justify-center">
                         <span className="font-serif text-xl md:text-2xl font-bold tracking-tight">
-                            ECOMMERCE
+                            RAJEEV FABRICS
                         </span>
                     </Link>
 
