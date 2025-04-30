@@ -8,11 +8,11 @@ export default function HeroBanner() {
                 <div className="relative z-10 mb-12 md:mb-0 md:w-1/2 text-white p-6 md:p-12">
                     <div className="mb-8">
                         <h1 className="font-serif text-3xl md:text-5xl font-bold mb-4">
-                            DELHI
+                            M/S
                             <br />
-                            SHIRTS
+                            RAJEEV
                             <br />
-                            COMPANY
+                            FABRICS
                         </h1>
                         <div className="w-16 h-0.5 bg-white mb-4"></div>
                         <p className="text-lg md:text-xl font-light">
